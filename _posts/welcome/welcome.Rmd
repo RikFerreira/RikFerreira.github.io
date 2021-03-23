@@ -5,7 +5,7 @@ description: |
   reading what we have to say!
 author:
   - name: Rik Ferreira Alves
-    url: https://rikferreira.github.io
+    url: https://rikferreira.netlify.app
     affiliation: UNIMONTES
     affiliation_url: https://unimontes.br
 date: 03-23-2021

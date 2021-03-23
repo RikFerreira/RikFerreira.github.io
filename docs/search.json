@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-03-23T20:00:36-03:00"
+      "last_modified": "2021-03-23T20:11:49-03:00"
     },
     {
       "path": "index.html",
       "title": "Rik Ferreira",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-03-23T20:00:37-03:00"
+      "contents": "\nHello world!\n\n\n\n",
+      "last_modified": "2021-03-23T20:11:49-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
